@@ -1,0 +1,17 @@
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/apg/Documents/programming/unity/GoHome/obj/Debug/Assembly-CSharp.dll
+/Users/apg/Documents/programming/unity/GoHome/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/UnityEngine.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/UnityEditor.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Mono.Cecil.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Unity.DataContract.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/apg/Documents/programming/unity/GoHome/Temp/bin/Debug/Mono.Cecil.Mdb.dll
